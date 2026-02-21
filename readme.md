@@ -1,4 +1,4 @@
-# Assingment Vehicle Rental System database table relational Diagram -
+# Vehicle Rental System ERD Design -
 
 link- https://lucid.app/lucidchart/1d78867a-0371-492c-a021-4628bb34da65/edit?viewport_loc=-2581%2C-190%2C2906%2C1314%2C0_0&invitationId=inv_72a04915-09f7-43dc-ab50-bb138c301f4e
 
