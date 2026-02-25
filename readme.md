@@ -121,3 +121,23 @@ This document provides assingment sql quries answer and the outputs from sql com
 | Yamaha R15 | 3 |
 | Toyota Corolla | 4 |
 | Honda Civic | 3 |
+
+### Part 3: Theory Questions Answer
+
+**Shareable Link**:
+
+**Question Answer 1**
+What is a foreign key and why is it important in relational databases?
+https://drive.google.com/file/d/16YCILnLYvn3q94Qvc7PapbvZqMPPuBBW/view?usp=sharing
+
+**Question Answer 2**
+What is the difference between WHERE and HAVING clauses in SQL?
+https://drive.google.com/file/d/18PWJAYn8y5LFKUhYU1uiPmEoFW9hahvw/view?usp=sharing
+
+**Question Answer 3**
+What is a primary key and what are its characteristics?
+https://drive.google.com/file/d/1dPxShepNSVPX7z5EaZg_eitM7Q1jm5ir/view?usp=sharing
+
+**Question Answer 4**
+What is the difference between INNER JOIN and LEFT JOIN in SQL?
+https://drive.google.com/file/d/1PuM5WflOmr9u36ZueHbNVe09oft7kw25/view?usp=sharing
